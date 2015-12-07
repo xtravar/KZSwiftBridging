@@ -6,6 +6,8 @@
 //  Copyright © 2015 Mike Kasianowicz. All rights reserved.
 //
 
+import Foundation
+
 public extension NSObject {
 // MARK: Generic
     /**
